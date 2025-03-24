@@ -1,19 +1,19 @@
 import chalk from "chalk";
 
-export function displayBanner() {
+export default function displayBanner() {
   console.log(
     chalk.cyan(`
 
-		██████╗ ██████╗  ██████╗    ██╗  ██╗██╗   ██╗██████╗ ███████╗
-		██╔══██╗██╔══██╗██╔════╝    ██║  ██║██║   ██║██╔══██╗██╔════╝
-		██████╔╝██████╔╝██║         ███████║██║   ██║██████╔╝███████╗
-		██╔══██╗██╔═══╝ ██║         ██╔══██║██║   ██║██╔══██╗╚════██║
-		██║  ██║██║     ╚██████╗    ██║  ██║╚██████╔╝██████╔╝███████║
-		╚═╝  ╚═╝╚═╝      ╚═════╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+		██╗  ██╗ █████╗ ██╗     ██╗
+                ██║  ██║██╔══██╗ ██║   ██╔╝
+                ███████║███████║    ███╔╝ 
+		██╔══██║██╔══██║  ██╔═ ██╗ 
+		██║  ██║██║  ██║ ██║    ██╗
+		╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝    ╚═╝
                                                              
 
-                   ${chalk.yellow("FLOW3 - REGISTRATION 📝")}                
-     📢  ${chalk.blue("Telegram Channel: https://t.me/RPC_Hubs")}`)
+                   ${chalk.yellow("KLOK - REGISTRATION 📝")}                
+     📢  ${chalk.blue("EDS LANG SAKALAM")}`)
   );
 
   console.log(
