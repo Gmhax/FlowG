@@ -12,7 +12,7 @@ export default function displayBanner() {
 		╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝    ╚═╝
                                                              
 
-                   ${chalk.yellow("KLOK - REGISTRATION 📝")}                
+                   ${chalk.yellow("FLOWG UNLI REF 📝")}                
      📢  ${chalk.blue("EDS LANG SAKALAM")}`)
   );
 
