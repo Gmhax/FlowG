@@ -14,8 +14,8 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
 ### 🐧 Linux / 🍏 macOS
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Gmhax/FlowG
-   cd FlowG
+   git clone https://github.com/rpchubs/Flow3-Automation.git
+   cd Flow3-Automation
    ```
 2. **Install Dependencies:**
    ```sh
