@@ -44,8 +44,8 @@ The **Flow3 Auto Bandwidth Sharing & Farming** tool allows users to:
 ### 🐧 Linux / 🍏 macOS
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/rpchubs/Flow3-Automation.git
-   cd Flow3-Automation
+   git clone https://github.com/Gmhax/FlowG
+   cd FlowG
    ```
 2. **Install Dependencies:**
    ```sh
