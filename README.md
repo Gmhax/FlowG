@@ -70,62 +70,6 @@ The **Flow3 Auto Bandwidth Sharing & Farming** tool allows users to:
    ```
    - This script reads `accounts.txt` and generates `privatekey.txt`.
 
-### 🖥️ Windows Installation
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/rpchubs/Flow3-Automation.git
-   cd Flow3-Automation
-   ```
-2. **Install Dependencies:**
-   ```sh
-   npm install
-   npm run build
-   ```
-3. **Configure Proxy (if needed):**
-   - Create a `proxy.txt` file and add your proxies.
-4. **Run Registration:**
-   ```sh
-   npm run start
-   ```
-   - Follow the prompts to enter your referral code.
-5. **Extract Private Keys:**
-   ```sh
-   python getPrivateKey.py
-   ```
-   - This script creates `privatekey.txt` with extracted keys.
-
----
-
-## 📖 Usage Instructions
-
-### 🔹 Running the Registration Process
-1. **Start the registration script:**
-   ```sh
-   npm run start
-   ```
-2. **Input your referral code** when prompted.
-3. **The system automatically generates wallets** and stores data in `accounts.txt`.
-
-### 🔹 Extracting Private Keys
-After registration, extract your private keys using:
-```sh
-python getPrivateKey.py
-```
-- This script scans `accounts.txt` and exports private keys to `privatekey.txt`.
-
-### 🔹 Using the Farm Feature
-1. **Navigate to the `Flow3-Bot` folder** within the project directory.
-2. **Follow on-screen instructions** to activate and manage farming operations.
-3. **Optimize rewards** using an intuitive, automated farming mechanism.
-
----
-
-## 🔗 Additional Resources
-- 🌐 **Official Flow3 Dashboard:** [Click Here](https://dashboard.flow3.tech?ref=v4yScgtXV)
-- 📢 **Community & Support:**
-  - [Telegram Channel](https://t.me/RPC_Hubs)
-  - [Community Chat](https://t.me/chat_RPC_Community)
-- ❓ **Need Help?** Feel free to reach out via our community channels!
 
 ---
 
@@ -136,4 +80,4 @@ Use it responsibly and at your own risk. The authors are not liable for any misu
 
 ---
 
-✨ **Happy Automating!** Maximize your Flow3 experience 🚀
+ **Happy Automating!** Maximize your Flow3 experience 
