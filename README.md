@@ -44,6 +44,9 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
    ```
    - Follow the on-screen instructions to input your referral code.
 
+## Detach Session
+- PRESS: CTRL A+B
+
 5. **Extract Private Keys:**
    ```sh
    python3 getPrivateKey.py
