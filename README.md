@@ -5,7 +5,6 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
 ---
 
 
-## 🛠 Installation
 
 ### 📌 Prerequisites
 - **Node.js:** v18.20.6 LTS (or later) – [Download Node.js](https://nodejs.org/)
@@ -13,6 +12,10 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
 
 ## First Create Account: If you don't have an account yet.
 - https://dashboard.flow3.tech?ref=MTutRAwfF
+
+
+## 🛠 Installation
+
 
 1. **Clone the Repository:**
    ```sh
