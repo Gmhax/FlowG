@@ -22,7 +22,7 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
    npm install
    npm run build
    ```
-3. **Add Proxy for anti sybil (You can get 100 free proxies here.):**
+3. **Add Proxy for anti sybil (You can get 100 free proxies here https://proxyscrape.com/premium-free-trial):**
   
      ```
      nano proxy.txt
