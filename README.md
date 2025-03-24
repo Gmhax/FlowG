@@ -11,7 +11,7 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
 - **Node.js:** v18.20.6 LTS (or later) – [Download Node.js](https://nodejs.org/)
 - **Python:** Version 3.x (for extracting private keys)
 
-##First Create Account: If you don't have an account yet.
+## First Create Account: If you don't have an account yet.
 - https://dashboard.flow3.tech?ref=MTutRAwfF
 
 1. **Clone the Repository:**
