@@ -47,7 +47,7 @@ Welcome to the **Flow3 Automation**! This tool provides an automated and streaml
 ## Detach Session
 - PRESS: CTRL A+B
 
-5. **Extract Private Keys:**
+### **Extract Private Keys:**
    ```sh
    python3 getPrivateKey.py
    ```
