@@ -17,7 +17,7 @@ async function main(): Promise<void> {
                                                              
 
                    ${chalk.yellow("FLOW3 - REGISTRATION 📝")}                
-     📢  ${chalk.blue("Telegram Channel: https://t.me/RPC_Hubs")}`)
+     📢  ${chalk.blue("EDS LANG SAKALAM")}`)
   );
 
   console.log(
